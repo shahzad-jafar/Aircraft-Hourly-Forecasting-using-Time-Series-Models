@@ -1,0 +1,10 @@
+# Core packages
+torch==2.4.1
+pandas==2.0.3
+pyarrow==13.0.0
+tensorboard
+fastparquet
+geopandas
+requests
+folium
+nbformat
