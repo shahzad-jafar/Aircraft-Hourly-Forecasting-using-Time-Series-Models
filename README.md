@@ -1,6 +1,6 @@
-<<<<<<< HEAD
-NYC Taxi Demand Forecasting
-This project provides a complete and modular pipeline for forecasting hourly taxi demand in New York City using various time-series models. This codebase has been refactored from Jupyter Notebooks into a structured Python project to make experimentation and deployment easier.
+<<<<<<< 
+Aircraft Hourly Forecasting using Time Series Models
+This project provides a complete and modular pipeline for forecasting hourly Aircraft demand using various time-series models. This codebase has been refactored from Jupyter Notebooks into a structured Python project to make experimentation and deployment easier.
 
 🚀 Setup and Installation
 Follow the steps below to set up the project on your local machine.
@@ -55,7 +55,7 @@ python main.py --model autogluon
 
 🔧 Configuration
 All model hyperparameters, directory paths, and training settings can be easily modified in the config.py file.
-=======
+
 # Aircraft-Hourly-Forecasting-using-Time-Series-Models
 This project focuses on forecasting aircraft data at an hourly level using advanced time series techniques. The pipeline includes data preprocessing, model training, and evaluation, enabling accurate prediction and analysis of aircraft behavior over time.
->>>>>>> c4278854f5218da1eac251db4477552c18da93d6
+
